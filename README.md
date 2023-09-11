@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AISSIOU Abdallah</h1>
-<h3 align="center">Passionate about the world of IT development, I'm an expert in programming, specializing mainly in backend development. However, I also master Frontend technologies. My aim is to put my skills to work on your projects and solve your technical problems. Whether it's application development, database management or the creation of interactive user interfaces, I'm ready to take on any challenge. Don't hesitate to contact me to turn your ideas and IT projects into reality. 🧑‍💻🧑‍💻 Translated with www.DeepL.com/Translator (free version)</h3>
+<h3 align="center">Passionate about the world of IT development, I'm an expert in programming, specializing mainly in backend development. However, I also master Frontend technologies. My aim is to put my skills to work on your projects and solve your technical problems. Whether it's application development, database management or the creation of interactive user interfaces, I'm ready to take on any challenge. Don't hesitate to contact me to turn your ideas and IT projects into reality. 🧑‍💻🧑‍💻 </h3>
 
 - 🔭 I’m currently working on **IDEMIA**
 
