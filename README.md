@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IDEMIA**
 
-- 🌱 I’m currently learning **JAVA ANGULAR**
+- 🌱 I’m currently learning **JAVA And ANGULAR**
 
 - 👨‍💻 All of my projects are available at [https://aissioudev.com/](https://aissioudev.com/)
 
